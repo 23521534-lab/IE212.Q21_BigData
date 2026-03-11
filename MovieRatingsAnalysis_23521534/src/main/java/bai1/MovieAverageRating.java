@@ -1,78 +1,72 @@
-package bai1;
-
-import java.io.IOException;
-import org.apache.hadoop.conf.Configuration;
-import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.*;
-import org.apache.hadoop.mapreduce.*;
-import org.apache.hadoop.mapreduce.lib.input.*;
-import org.apache.hadoop.mapreduce.lib.output.*;
+import java.io.*;
+import java.util.*;
 
 public class MovieAverageRating {
-
-    public static class RatingMapper extends Mapper<Object, Text, Text, Text> {
-        public void map(Object key, Text value, Context context)
-                throws IOException, InterruptedException {
-            String[] f = value.toString().split(",");
-            if (f.length >= 3)
-                context.write(new Text(f[1]), new Text("R:" + f[2]));
-        }
-    }
-
-    public static class MovieMapper extends Mapper<Object, Text, Text, Text> {
-        public void map(Object key, Text value, Context context)
-                throws IOException, InterruptedException {
-            String[] f = value.toString().split(",",3);
-            if (f.length >= 2)
-                context.write(new Text(f[0]), new Text("T:" + f[1]));
-        }
-    }
-
-    public static class ReducerAvg extends Reducer<Text, Text, Text, Text> {
-        public void reduce(Text key, Iterable<Text> values, Context context)
-                throws IOException, InterruptedException {
-
-            float sum = 0;
-            int count = 0;
-            String title = "";
-
-            for (Text v : values) {
-                String s = v.toString();
-                if (s.startsWith("T:"))
-                    title = s.substring(2);
-                else {
-                    sum += Float.parseFloat(s.substring(2));
-                    count++;
-                }
-            }
-
-            if (count >= 5) {
-                float avg = sum / count;
-                context.write(new Text(title),
-                        new Text(String.format("%.2f (%d ratings)", avg, count)));
-            }
-        }
-    }
-
     public static void main(String[] args) throws Exception {
-        Configuration conf = new Configuration();
-        Job job = Job.getInstance(conf, "avg rating");
+        Map<String, List<Double>> ratings = new HashMap<>();
+        Map<String, String> movies = new HashMap<>();
+        readMovies("movies.txt", movies);
 
-        job.setJarByClass(MovieAverageRating.class);
+        readRatings("ratings_1.txt", ratings);
+        readRatings("ratings_2.txt", ratings);
 
-        MultipleInputs.addInputPath(job,new Path(args[0]),
-                TextInputFormat.class,RatingMapper.class);
+        String maxMovie = "";
+        double maxRating = 0.0;
 
-        MultipleInputs.addInputPath(job,new Path(args[1]),
-                TextInputFormat.class,MovieMapper.class);
+        System.out.println("=== KET QUA BAI 1: DIEM TRUNG BINH CAC PHIM ===");
+        System.out.println("------------------------------------------------");
 
-        job.setReducerClass(ReducerAvg.class);
+        for (String movieId : ratings.keySet()) {
+            List<Double> list = ratings.get(movieId);
+            int count = list.size();
+            double sum = 0;
+            for (double r : list) sum += r;
+            double avg = sum / count;
 
-        job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(Text.class);
+            String title = movies.getOrDefault(movieId, "Movie_" + movieId);
+            System.out.printf("%s: %.2f (Total: %d ratings)%n", title, avg, count);
 
-        FileOutputFormat.setOutputPath(job,new Path(args[2]));
+            if (count >= 5 && avg > maxRating) {
+                maxRating = avg;
+                maxMovie = title;
+            }
+        }
 
-        System.exit(job.waitForCompletion(true)?0:1);
+        System.out.println("------------------------------------------------");
+        if (!maxMovie.isEmpty()) {
+            System.out.printf("PHIM CAO NHAT: %s voi diem %.2f (co it nhat 5 danh gia)%n", 
+                    maxMovie, maxRating);
+        } else {
+            System.out.println("Khong tim thay phim nao co it nhat 5 danh gia");
+        }
+    }
+
+    private static void readMovies(String filename, Map<String, String> movies) throws Exception {
+        BufferedReader br = new BufferedReader(new FileReader(filename));
+        String line;
+        while ((line = br.readLine()) != null) {
+            String[] fields = line.split(",", 3);
+            if (fields.length >= 2) {
+                String movieId = fields[0].trim();
+                String title = fields[1].trim();
+                movies.put(movieId, title);
+            }
+        }
+        br.close();
+    }
+
+    private static void readRatings(String filename, Map<String, List<Double>> ratings) throws Exception {
+        BufferedReader br = new BufferedReader(new FileReader(filename));
+        String line;
+        while ((line = br.readLine()) != null) {
+            String[] fields = line.split(", ");
+            if (fields.length >= 3) {
+                String movieId = fields[1].trim();
+                double rating = Double.parseDouble(fields[2].trim());
+                ratings.putIfAbsent(movieId, new ArrayList<>());
+                ratings.get(movieId).add(rating);
+            }
+        }
+        br.close();
     }
 }
