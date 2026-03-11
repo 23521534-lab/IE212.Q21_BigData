@@ -1,0 +1,303 @@
+
+=== KET QUA BAI 4: PHAN TICH DANH GIA THEO NHOM TUOI ===
+------------------------------------------------
+American Beauty (1999):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Avatar (2009):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 5,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Back to the Future (1985):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Birdman (2014):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Braveheart (1995):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Coco (2017):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,25 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Dunkirk (2017):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Fight Club (1999):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,25 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Forrest Gump (1994):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Gladiator (2000):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Good Will Hunting (1997):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Gravity (2013):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Inception (2010):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Interstellar (2014):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Jurassic Park (1993):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+La La Land (2016):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 5,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Mad Max: Fury Road (2015):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Manchester by the Sea (2016):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Memento (2000):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Moonlight (2016):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 3,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Parasite (2019):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Pulp Fiction (1994):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Saving Private Ryan (1998):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Schindler's List (1993):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Se7en (1995):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+Slumdog Millionaire (2008):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Spotlight (2015):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Star Wars: A New Hope (1977):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Avengers (2012):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Big Short (2015):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Dark Knight (2008):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Departed (2006):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 2,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Godfather (1972):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Green Mile (1999):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 3,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Imitation Game (2014):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Lion King (1994):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Lord of the Rings: The Fellowship of the Ring (2001):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Lord of the Rings: The Return of the King (2003):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Lord of the Rings: The Two Towers (2002):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Matrix (1999):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,75 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Prestige (2006):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Revenant (2015):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Shawshank Redemption (1994):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Silence of the Lambs (1991):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,50 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Social Network (2010):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 3,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Usual Suspects (1995):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,25 (2 ratings)
+  36-50 : 0,00 (0 ratings)
+  50+   : 0,00 (0 ratings)
+
+The Wolf of Wall Street (2013):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,50 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Titanic (1997):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,00 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Toy Story (1995):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 4,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+
+Whiplash (2014):
+  0-18  : 0,00 (0 ratings)
+  19-35 : 3,00 (1 ratings)
+  36-50 : 4,50 (1 ratings)
+  50+   : 0,00 (0 ratings)
+

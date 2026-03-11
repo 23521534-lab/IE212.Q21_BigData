@@ -1,0 +1,20 @@
+
+=== KET QUA BAI 2: DIEM TRUNG BINH THEO THE LOAI ===
+------------------------------------------------
+Action         : 3,73 (Total: 20 ratings)
+Adventure      : 3,85 (Total: 30 ratings)
+Animation      : 4,17 (Total: 6 ratings)
+Biography      : 4,14 (Total: 14 ratings)
+Children       : 4,25 (Total: 2 ratings)
+Comedy         : 3,96 (Total: 12 ratings)
+Crime          : 3,78 (Total: 20 ratings)
+Drama          : 3,81 (Total: 76 ratings)
+Family         : 4,25 (Total: 2 ratings)
+Fantasy        : 3,95 (Total: 10 ratings)
+History        : 4,00 (Total: 6 ratings)
+Music          : 3,88 (Total: 4 ratings)
+Mystery        : 4,00 (Total: 8 ratings)
+Romance        : 3,75 (Total: 8 ratings)
+Sci-Fi         : 3,85 (Total: 20 ratings)
+Thriller       : 3,88 (Total: 16 ratings)
+War            : 4,00 (Total: 2 ratings)
