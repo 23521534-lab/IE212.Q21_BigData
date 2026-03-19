@@ -1,0 +1,30 @@
+CATEGORY	HOTEL	3605
+CATEGORY	ROOMS	2498
+CATEGORY	SERVICE	2300
+CATEGORY	ROOM_AMENITIES	1264
+CATEGORY	LOCATION	953
+CATEGORY	FOOD&DRINKS	694
+CATEGORY	FACILITIES	442
+CATEGORY	GENERAL	7
+CATEGORY	QUALITY	2
+CATEGORY	DESIGN&FEATURES	2
+CATEGORY	MISCELLANEOUS	1
+CATEGORY	COMFORT	1
+CATEGORY	STYLE&OPTIONS	1
+
+ASPECT	GENERAL	5576
+ASPECT	COMFORT	1372
+ASPECT	CLEANLINESS	1364
+ASPECT	QUALITY	1162
+ASPECT	DESIGN&FEATURES	937
+ASPECT	PRICES	745
+ASPECT	MISCELLANEOUS	334
+ASPECT	STYLE&OPTIONS	266
+ASPECT	phố đi bộ ngay trước khách sạn thuận tiện cho việc đi dạo chợ đêm."	4
+ASPECT	còn về trái cây tráng miệng thì dưa hấu thối có mùi, thơm chua mà gọt còn sát vỏ, giống kiểu gọt nấu canh vậy đó."	3
+ASPECT	Vị trí đi lại tham quan dễ dàng."	2
+ASPECT	hệ thống nước + vòi nên thay lại cho dễ sử dụng."	1
+ASPECT	phòng cấp bên dưới tầng chính, tầm nhìn của bạn nhìn ra thành phố xinh đẹp với những ngọn núi ở phía sau."	1
+ASPECT	dễ dàng ra tắm biển ở Bãi Sau."	1
+ASPECT	cộng với nhiều cây cối tạo cho resort rất mát vẻ và tự nhiên."	1
+ASPECT	kỹ thuật đành chọn phương án: bưng nguyên cái ở phòng khác vào thay vì cái kia không sửa được !"	1
