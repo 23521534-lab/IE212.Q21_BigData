@@ -1,0 +1,14 @@
+============================================================
+BÀI 1: Phim có điểm trung bình cao nhất (>= 50 lượt)
+============================================================
+
+⚠️ KHÔNG CÓ PHIM NÀO ĐỦ 50 LƯỢT ĐÁNH GIÁ!
+
+Tổng số phim có đánh giá: 14
+
+Top 5 phim có nhiều lượt đánh giá nhất:
+  [1040] Gladiator (2000) - 18 lượt
+  [1025] The Terminator (1984) - 18 lượt
+  [1020] E.T. the Extra-Terrestrial (1982) - 18 lượt
+  [1050] Mad Max: Fury Road (2015) - 18 lượt
+  [1037] The Lord of the Rings: The Fellowship of the Ring (2001) - 18 lượt

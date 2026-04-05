@@ -1,0 +1,17 @@
+============================================================
+BÀI 5: Điểm trung bình theo nghề nghiệp
+============================================================
+Programmer      | Avg: 4.2500 | Lượt: 10
+Designer        | Avg: 4.0000 | Lượt: 13
+Student         | Avg: 4.0000 | Lượt: 8
+Nurse           | Avg: 3.8636 | Lượt: 11
+Consultant      | Avg: 3.8571 | Lượt: 14
+Journalist      | Avg: 3.8529 | Lượt: 17
+Artist          | Avg: 3.7273 | Lượt: 11
+Teacher         | Avg: 3.7000 | Lượt: 5
+Doctor          | Avg: 3.6905 | Lượt: 21
+Lawyer          | Avg: 3.6471 | Lượt: 17
+Salesperson     | Avg: 3.6471 | Lượt: 17
+Accountant      | Avg: 3.5833 | Lượt: 6
+Engineer        | Avg: 3.5556 | Lượt: 18
+Manager         | Avg: 3.4688 | Lượt: 16

@@ -1,0 +1,15 @@
+============================================================
+BÀI 2: Điểm trung bình theo thể loại phim
+============================================================
+Film-Noir                 | Avg: 4.3571 | Lượt: 7
+Horror                    | Avg: 4.0000 | Lượt: 2
+Mystery                   | Avg: 4.0000 | Lượt: 2
+Fantasy                   | Avg: 3.8621 | Lượt: 29
+Crime                     | Avg: 3.8095 | Lượt: 42
+Drama                     | Avg: 3.7578 | Lượt: 128
+Sci-Fi                    | Avg: 3.7315 | Lượt: 54
+Action                    | Avg: 3.7130 | Lượt: 54
+Thriller                  | Avg: 3.7037 | Lượt: 27
+Family                    | Avg: 3.6667 | Lượt: 18
+Adventure                 | Avg: 3.6325 | Lượt: 83
+Biography                 | Avg: 3.5600 | Lượt: 25

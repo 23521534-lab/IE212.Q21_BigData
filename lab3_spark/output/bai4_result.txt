@@ -1,0 +1,8 @@
+============================================================
+BÀI 4: Phim có điểm cao nhất theo từng nhóm tuổi
+============================================================
+18-24        | [1025] The Terminator (1984)                         | Avg: 4.5000 | Count: 1
+25-34        | [1012] Psycho (1960)                                 | Avg: 4.5000 | Count: 1
+35-44        | [1015] Sunset Boulevard (1950)                       | Avg: 4.5000 | Count: 2
+45-54        | [1015] Sunset Boulevard (1950)                       | Avg: 4.5000 | Count: 2
+55+          | [1025] The Terminator (1984)                         | Avg: 3.7500 | Count: 2

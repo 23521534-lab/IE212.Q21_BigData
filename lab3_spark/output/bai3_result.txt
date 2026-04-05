@@ -1,0 +1,17 @@
+============================================================
+BÀI 3: Top 5 phim điểm cao nhất theo giới tính
+============================================================
+
+Nam (M):
+  [1015] Sunset Boulevard (1950)                            | Avg: 4.3333 | Count: 6
+  [1013] The Godfather: Part II (1974)                      | Avg: 4.0556 | Count: 9
+  [1037] The Lord of the Rings: The Fellowship of the Ring (2001) | Avg: 4.0000 | Count: 8
+  [1047] The Social Network (2010)                          | Avg: 4.0000 | Count: 4
+  [1050] Mad Max: Fury Road (2015)                          | Avg: 4.0000 | Count: 4
+
+Nữ (F):
+  [1015] Sunset Boulevard (1950)                            | Avg: 4.5000 | Count: 1
+  [1025] The Terminator (1984)                              | Avg: 4.1364 | Count: 11
+  [1012] Psycho (1960)                                      | Avg: 4.0000 | Count: 2
+  [1013] The Godfather: Part II (1974)                      | Avg: 3.9375 | Count: 8
+  [1039] The Lord of the Rings: The Return of the King (2003) | Avg: 3.9000 | Count: 5
